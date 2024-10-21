@@ -125,7 +125,6 @@ int main() {
 ```
 
 ## OUTPUT:
-![alt text]('3.png)
-
+![alt text](<Screenshot 2024-10-21 110643.png>)
 ## RESULT:
 The program is executed successfully
